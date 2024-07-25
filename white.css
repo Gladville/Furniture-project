@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.cha-pop{
+    display: flex;
+}
+
+.line{
+width: 30px;
+height: 7px;
+padding: 1em 1em;
+border-bottom: solid #fff;
+border-width: 1.5px;
+}
+
+.ball{
+background-color: #fff;
+margin-top:2.1em ;
+color: #fff;
+padding: 6px 6px;
+border-radius: 10px;
+margin-left: -2px;
+}
+
+.sof-pop{
+
+}
+.lin{
+    width: 30px;
+    height: 24px;
+    padding: 1em 1em;
+    border-left: solid #fff;
+    border-width: 1.5px;
+    margin: auto;
+    }
+    
+    .bal{
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    margin-top:em ;
+    color: #fff;
+    border-radius: 50px;
+    margin-left: 14.6em;
+    }
